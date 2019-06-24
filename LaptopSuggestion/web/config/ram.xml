@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rams>
+    <ram name="ddr2">
+        <bus>200</bus>
+        <bus>266</bus>
+        <bus>333</bus>
+        <bus>400</bus>
+    </ram>
+    <ram name="ddr3">
+        <bus>1066</bus>
+        <bus>1333</bus>
+        <bus>1600</bus>
+        <bus>2133</bus>
+    </ram>
+    <ram name="ddr4">
+        <bus>2133</bus>
+        <bus>2400</bus>
+        <bus>2666</bus>
+        <bus>3200</bus>
+    </ram>
+</rams>

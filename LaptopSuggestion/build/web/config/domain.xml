@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<domains>
+    <domain name="laptopgiahuy" url="http://laptopgiahuy.com/">
+        <category>
+            <begin><![CDATA[<nav id="main-menu">]]></begin>
+            <end><![CDATA[</nav>]]></end>
+        </category>
+        <page>
+            <begin><![CDATA[<div class="container" id="Wraper-Order">]]></begin>
+            <end><![CDATA[</span></span></div></div>]]></end>
+        </page>
+        <product>
+            <begin><![CDATA[<div id="ProductGroup-Ajax" class="row">]]></begin>
+            <end><![CDATA[</body>]]></end>
+        </product>
+        <detail>
+            <begin><![CDATA[<article id="Context" class="Context" itemprop="description">]]></begin>
+            <end><![CDATA[</article>]]></end>
+        </detail>
+    </domain>
+    <domain name="laptopleson" url="https://laptopleson.vn/">
+        <category>
+            <begin><![CDATA[<ul class="menu_sp">]]></begin>
+            <end><![CDATA[</ul>]]></end>
+        </category>
+        <page>
+            <begin><![CDATA[<div class="quatrang">]]></begin>
+            <end><![CDATA[Tiếp theo »</a>                                </div>]]></end>
+        </page>
+        <product>
+            <begin><![CDATA[<div class="row san_pham">]]></begin>
+            <end><![CDATA[</span></span>                                                    </div>
+                                                </div>
+                                            </div>      
+                                        </div>
+                                                                            </div>]]></end>
+        </product>
+        <detail>
+            <begin><![CDATA[<table class="table table-hover">]]></begin>
+            <end><![CDATA[</tbody></table></div></div></div></div>]]></end>
+        </detail>
+    </domain>
+</domains>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benchmark>
+    <cpu url="https://www.cpubenchmark.net/cpu_list.php">
+        <begin><![CDATA[<TABLE ID="cputable" class="cpulist">]]></begin>
+        <end><![CDATA[</TBODY>]]></end>
+    </cpu>
+    <gpu url="https://www.videocardbenchmark.net/gpu_list.php">
+        <begin><![CDATA[<TABLE ID="cputable" class="cpulist">]]></begin>
+        <end><![CDATA[</TBODY>
+</TABLE>]]></end>
+    </gpu>
+</benchmark>

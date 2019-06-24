@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<titile>
+    <color>
+        <title>Color</title>
+        <title>Màu sắc</title>
+    </color>
+    <model>
+        <title>Model</title>
+        <title>Laptop</title>
+    </model>
+    <processor>
+        <title>Bộ Vi xử lý</title>
+        <title>CPU</title>
+        <title>Tốc độ tối đa</title>
+        <title>Chipset</title>
+        <title>Bộ Vi Xử Lý</title>
+    </processor>
+    <ramSize>
+        <title>Ram</title>
+    </ramSize>
+    <disk>
+        <title>HDD</title>
+        <title>Loại ổ đĩa</title>
+        <title>Dung Lượng</title>
+        <title>Đĩa cứng</title>
+        <title>Bộ nhớ</title>
+        <title>Ổ Cứng</title>
+        <title>Ổ cứng</title>
+    </disk>
+    <dvd>
+        <title>Ổ Quang</title>
+        <title>Ổ Đĩa Quan</title>
+        <title>Loại đĩa quan</title>
+        <title>Đĩa quang</title>
+    </dvd>
+    <cache>
+        <title>Bộ nhớ đệm</title>
+    </cache>
+    <graphicProcessor>
+        <title>Card Đồ Họa</title>
+        <title>Graphics</title>
+        <title>Chipset đồ họa</title>
+        <title>Đồ họa</title>
+        <title>Card đồ hoạ</title>
+        <title>VGA</title>
+    </graphicProcessor>
+    <screenSize>
+        <title>Màn Hình</title>
+    </screenSize>
+    <touchScreen>
+        <title>Cảm ứng</title>
+    </touchScreen>
+    <audio>
+        <title>Kênh âm than</title>
+        <title>Audio</title>
+    </audio>
+    <lan>
+        <title>Kết Nối Lan</title>
+        <title>LAN</title>
+        <title>Kết nối mạng</title>
+    </lan>
+    <wl>
+        <title>Kết Nối WL</title>
+        <title>Kết nối</title>
+    </wl>
+    <bluetooth>
+        <title>Bluetooth</title>
+    </bluetooth>
+    <webcam>
+        <title>Webcam</title>
+    </webcam>
+    <fingerPrint>
+        <title>Finger print</title>
+        <title>Fingerprint</title>
+        <title>PrinFinger:</title>
+    </fingerPrint>
+    <port>
+        <title>Cổng Giao Tiếp</title>
+    </port>
+    <keyboard>
+        <title>Bàn Phím</title>
+        <title>Keyboard</title>
+    </keyboard>
+    <pin>
+        <title>Pin</title>
+        <title>Thời lượng dùng</title>
+    </pin>
+    <weight>
+        <title>Trọng Lượng</title>
+        <title>Cân nặng</title>
+    </weight>
+    <size>
+        <title>Kích thước</title>
+    </size>
+    <accessories>
+        <title>Phụ kiện</title>
+    </accessories>
+    <os>
+        <title>Hệ Điều Hành</title>
+        <title>HĐH theo máy</title>
+    </os>
+    <guarantee>
+        <title>Bảo Hành</title>
+    </guarantee>
+    <ship>
+         <title>Giao hàng</title>
+    </ship>
+    <origin>
+        <title>Xuất Xứ</title>
+    </origin>
+    <gift>
+        <title>Khuyến Mại</title>
+    </gift>
+    <other>
+        <title>Tính Năng Khác</title>
+        <title>Cam kết</title>
+        <title>Tình Trạng</title>
+        <title>Chất liệu vỏ</title>
+    </other>
+</titile>

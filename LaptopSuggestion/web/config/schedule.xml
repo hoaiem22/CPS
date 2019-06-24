@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+    <hour>11</hour>
+    <minute>07</minute>
+    <second>00</second>
+    <millisecond>00</millisecond>
+    <delay>86400000</delay>
+</schedule>
